@@ -6,9 +6,8 @@
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="SHAREEXT@ CHANNELS || INDONESIA2",[ID] RCTI
-http://iptv12k.com:35461/654321/123456/2185
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="SHAREEXT@ CHANNELS || INDONESIA2",GTV
-http://iptv12k.com:35461/654321/123456/4290
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="SHAREEXT@ CHANNELS || INDONESIA2",[ID] Net. TV
-http://iptv12k.com:35461/654321/123456/2186
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Indonesia Channels",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
